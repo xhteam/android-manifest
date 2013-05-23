@@ -3,7 +3,7 @@
 
   <remote  name="aosp"
            fetch=".." />
-  <default revision="ics-mr1"
+  <default revision="fsl_imx6"
            remote="aosp"
            sync-j="4" />
 
