@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote  name="quester"
            fetch=".." />
   <default revision="fsl_imx6"
            remote="aosp"
@@ -21,7 +21,7 @@
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/fsl" name="device/fsl" />
-  <project path="device/fsl-proprietary" name="device/fsl-proprietary" />  
+  <project path="device/fsl-proprietary" name="device/fsl-proprietary" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
