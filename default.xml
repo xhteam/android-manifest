@@ -111,6 +111,8 @@
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
+  <project path="external/linux-firmware-imx" name="platform/external/linux-firmware-imx" />
+  <project path="external/linux-lib" name="platform/external/linux-lib" />  
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/markdown" name="platform/external/markdown" />
