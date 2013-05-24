@@ -250,5 +250,6 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
+  <project path="system/wlan/atheros" name="platform/system/wlan/atheros" />
 
 </manifest>
