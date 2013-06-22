@@ -3,7 +3,7 @@
 
   <remote  name="quester"
            fetch=".."/>
-  <default revision="refs/tags/android-4.2.2_r1"
+  <default revision="imx_jb"
            remote="quester"
            sync-j="4" />
 
@@ -22,6 +22,8 @@
   <project path="device/asus/grouper" name="device/asus/grouper" groups="device,grouper" />
   <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device,grouper" />
   <project path="device/common" name="device/common" />
+  <project path="device/fsl" name="device/fsl" />
+  <project path="device/fsl-proprietary" name="device/fsl-proprietary" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
@@ -71,6 +73,7 @@
   <project path="external/doclava" name="platform/external/doclava" />
   <project path="external/dropbear" name="platform/external/dropbear" />
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" />
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
