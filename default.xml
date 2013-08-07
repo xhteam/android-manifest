@@ -25,6 +25,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/fsl" name="device/fsl" />
   <project path="device/fsl-proprietary" name="device/fsl-proprietary" />
+  <project path="device/generic/apps/TFIDemo" name="device/generic/apps/TFIDemo" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
