@@ -245,6 +245,7 @@
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
+  <project path="hardware/marvell/wlan" name="platform/hardware/marvell/wlan" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
