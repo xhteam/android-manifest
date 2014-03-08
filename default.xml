@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="quester"
+  <remote  name="github"
            fetch=".."/>
   <default revision="imx_jb"
-           remote="quester"
+           remote="github"
            sync-j="4" />
 
   <project path="build" name="build" groups="pdk" >
