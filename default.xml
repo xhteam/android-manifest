@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."/>
+           fetch="git://github.com/"/>
   <default revision="github"
            remote="github"
            sync-j="4" />
