@@ -44,7 +44,7 @@
   <project path="device/samsung/toroplus" name="xhteam/device-samsung-toroplus" groups="device,tuna" />
   <project path="device/samsung/tuna" name="xhteam/device-samsung-tuna" groups="device,tuna" />
   <project path="device/ti/panda" name="xhteam/device-ti-panda" groups="device" /-->
-  <project path="kernel_imx" name="xhteam/kernel-imx" />
+  <project path="kernel_imx" name="xhteam/kernel_imx" />
   <project path="docs/source.android.com" name="xhteam/docs-source.android.com" />
   <project path="external/aac" name="xhteam/external-aac" groups="pdk" />
   <project path="external/android-clat" name="xhteam/external-android-clat" />
