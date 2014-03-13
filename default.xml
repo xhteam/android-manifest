@@ -25,6 +25,7 @@
   <project path="device/common" name="xhteam/device-common" />
   <project path="device/fsl" name="xhteam/device-fsl" />
   <project path="device/fsl-proprietary" name="xhteam/device-fsl-proprietary" />
+  <project path="device/generic/apps/PlatformLibrary" name="xhteam/device-generic-apps-PlatformLibrary" />
   <project path="device/generic/apps/TFIDemo" name="xhteam/device-generic-apps-TFIDemo" />
   <project path="device/generic/apps/SCardDemo" name="xhteam/device-generic-apps-SCardDemo" />
   <project path="device/generic/armv7-a-neon" name="xhteam/device-generic-armv7-a-neon" groups="pdk" />
