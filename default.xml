@@ -350,7 +350,7 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="xhteam/prebuilts-gcc-linux-x86-x86-i686-linux-android-4.6" groups="pdk,linux,x86" />
   <project path="prebuilts/misc" name="xhteam/prebuilts-misc" groups="pdk" />
   <project path="prebuilts/ndk" name="xhteam/prebuilts-ndk" groups="pdk" />
-  <project path="prebuilts/qemu-kernel" name="xhteam/prebuilts-qemu-kernel" groups="pdk" />
+  <!--project path="prebuilts/qemu-kernel" name="xhteam/prebuilts-qemu-kernel" groups="pdk" /-->
   <project path="prebuilts/sdk" name="xhteam/prebuilts-sdk" groups="pdk" />
   <project path="prebuilts/tools" name="xhteam/prebuilts-tools" groups="pdk" />
   <project path="sdk" name="xhteam/sdk" />
@@ -362,6 +362,6 @@
   <project path="system/security" name="xhteam/system-security" groups="pdk" />
   <project path="system/vold" name="xhteam/system-vold" groups="pdk" />
   <project path="tools/build" name="xhteam/tools-build" groups="notdefault,tools" />
-  <project path="tools/motodev" name="xhteam/tools-motodev" groups="notdefault,motodev" />
+  <!--project path="tools/motodev" name="xhteam/tools-motodev" groups="notdefault,motodev" /-->
 
 </manifest>
