@@ -195,7 +195,6 @@
   <project path="external/stlport" name="xhteam/external-stlport" groups="pdk" />
   <project path="external/strace" name="xhteam/external-strace" />
   <project path="external/stressapptest" name="xhteam/external-stressapptest" />
-  <project path="external/svox" name="xhteam/external-svox" />
   <project path="external/tagsoup" name="xhteam/external-tagsoup" />
   <project path="external/tcpdump" name="xhteam/external-tcpdump" />
   <project path="external/tinyalsa" name="xhteam/external-tinyalsa" groups="pdk" />
